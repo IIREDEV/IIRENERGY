@@ -115,9 +115,9 @@ Content Cell  | Content Cell
 
 
 | NatGas Live  | NGLS Live  | Market Data |
-| :------------ |:---------------:| -----:|
+| ------------- | ----------- |
 | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   |
-| zebra stripes      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| Documentation      | Documentation        |   Documentation |
+
 
 
