@@ -1,9 +1,8 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
-**repo contains latest from the test server - 10.23.98.23 and includes**
+*repo contains latest from the test server - 10.23.98.23 and includes*
 
-
-1. You can find the Docs, wiki, how to's here `[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)` and  `**[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)**Project`.
-2. Links to [Issues](www.github.com)/ Pull Request, updates 
+1. You can find the Docs, wiki, how to's here 
+2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
 ```
