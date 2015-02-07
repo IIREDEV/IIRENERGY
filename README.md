@@ -1,6 +1,8 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 
-#### IIRENEGY repo contains latest from the test server -  *10.23.98.23*.
+```powershell
+## IIRENEGY repo contains latest from the test server - 10.23.98.23.
+```
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
 
@@ -15,9 +17,7 @@ If you'd like to quote someone, use the > character before the line:
 [Documentaton/Wiki](http://github.com/dotnet/core), [Issues](http://github.com/dotnet/core), [Wiki](http://github.com/dotnet/core)
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/petro-cast-icon.png.pagespeed.ce.n3BIjOzI29.png)
-```powershell
-IIRENEGY repo contains latest from the test server - 10.23.98.23.
-```
+
 |   |Linux|Windows|
 |:-:|:-:|:-:|
 |Debug|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/)|
