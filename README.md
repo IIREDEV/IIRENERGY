@@ -1,15 +1,14 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 *repo contains latest from the test server - 10.23.98.23 and includes*
+```powershell
 
+```
 1. You can find the Docs, wiki, how to's here 
 2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
 ```
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
 
