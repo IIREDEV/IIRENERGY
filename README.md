@@ -5,7 +5,8 @@
 |Debug|[![test](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/)|[![davsion status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/)|
 |Release|[![hello](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_release/)|[![davsion status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_release/)|
 
-=
+The build for this repo will produce the following artifacts:
+
 1. repo contains latest from the test server - 10.23.98.23 and includes
 2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
 3. 
