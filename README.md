@@ -1,7 +1,7 @@
 # IIRENEGY Folder From Test (CoreCLR)
 
- IIRENEGY repo contains latest from the test site.
- [Documentaton] link. (pretty empty right now...)
+IIRENEGY repo contains latest from the test site.
+[Documentaton](http://github.com/dotnet/core) link.
 
 POST /repos/:owner/:repo/statuses/:sha
 
