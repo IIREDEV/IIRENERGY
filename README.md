@@ -111,8 +111,8 @@ Content Cell  | Content Cell
 | Close     | Closes a window     |
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| NatGas Live  | NGLS Live  | Market Data |
 | :------------ |:---------------:| -----:|
-| ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | some wordy text | $1600 |
+| ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
