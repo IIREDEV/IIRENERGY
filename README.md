@@ -1,4 +1,4 @@
-# IIRENERGY Dir from test
+# IIRENEGY Folder From Test (CoreCLR)
 
 |   |Linux|Windows|
 |:-:|:-:|:-:|
