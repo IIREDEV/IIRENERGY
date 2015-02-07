@@ -1,4 +1,4 @@
-# IIRENEGY Folder From Test 
+# ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) Folder From Test 
 
 **IIRENEGY** repo contains latest from the **[test site](http://google.com)** at *10.23.98.23*.
 
