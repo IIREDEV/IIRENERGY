@@ -3,7 +3,7 @@
 
 
 1. You can find the Docs, wiki, how to's here `[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)` and  `**[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)**Project`.
-2. Links to `[Issues](www.github.com)`/ Pull Request, updates 
+2. Links to [Issues](www.github.com)/ Pull Request, updates 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
 ```
