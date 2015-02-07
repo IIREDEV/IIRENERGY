@@ -113,6 +113,6 @@ Content Cell  | Content Cell
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+| ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
