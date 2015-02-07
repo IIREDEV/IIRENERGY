@@ -5,14 +5,21 @@
 |Debug|[![test](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/)|[![davsion status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/)|
 |Release|[![hello](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_release/)|[![davsion status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_release/)|
 
-The build for this repo will produce the following artifacts:
-
-1. repo contains latest from the test server - 10.23.98.23 and includes
-2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
-3. 
+Important Information:
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
 ```
+1. SmartAdmin template Refernce for classes and UI Elements [Issues](www.github.com). 
+2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
+3. Brad Duncan is Stake Holder on Projects
+
+## Code Flow
+SmartAdmin Bootstrap interveved with jquery & and jsp.
+
+We setup a live 2-way mirror between the coreclr repo on GitHub and the .NET Framework TFS server within Microsoft. The latency of the mirror is low, measurable in minutes.
+
+Contributions made to the coreclr repo are integrated to the Microsoft TFS server automatically and will become part of both the .NET Framework and .NET Core products. The same is true in reverse, that .NET Framework CLR changes (within the CoreCLR subset) are mirrored to the CoreCLR repo. These changes will sometimes result in large commits to unrelated components.
+
 
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
