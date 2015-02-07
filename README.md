@@ -1,5 +1,8 @@
 # IIRENEGY Folder From Test (CoreCLR)
 
+ IIRENEGY repo contains latest from the test site.
+ [Documentaton] link. (pretty empty right now...)
+
 POST /repos/:owner/:repo/statuses/:sha
 
 |   |Linux|Windows|
@@ -9,7 +12,7 @@ POST /repos/:owner/:repo/statuses/:sha
 
 The coreclr repo contains the complete runtime implementation (called "CoreCLR") for [.NET Core](http://github.com/dotnet/core). It includes RyuJIT, the .NET GC, native interop and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
 
-.NET Core is part of ASP.NET 5 and is a subset of the .NET Framework. You can learn more about .NET Core and how and where you can use it in the [CoreCLR is open source][coreclr blog post] blog post. 
+.NET Core is part of ASP.NET 5 and is a subset of the .NET Framework. You can learn more about .NET Core and how and where you can use it in the [Documentaton] link. (pretty empty right now)[coreclr blog post] blog post. 
 
 The [.NET Core Libraries][corefx] repo contains the base class libraries, which provides data types and base functionality (ex: String, Collections, HttpClient) on top of CoreCLR. The two repos together make up .NET Core. The [.NET Core is Open Source][.NET Core oss] and [Introducing .NET Core][Introducing .NET Core] blog posts describes our .NET Core OSS strategy and road map in more detail.
 
