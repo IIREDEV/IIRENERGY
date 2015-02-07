@@ -8,7 +8,7 @@
 ```powershell
 
 ```
-1.repo contains latest from the test server - 10.23.98.23 and includes
+1. repo contains latest from the test server - 10.23.98.23 and includes
 2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
 3. 
 ```powershell
