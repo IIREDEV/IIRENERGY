@@ -1,11 +1,9 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 **repo contains latest from the test server - 10.23.98.23 and includes**
 
-1. Item 1
-2. Item 2
-3. Item 3
-4. 
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+
+1. You can find the Docs, wiki, how to's here `[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)` and  `**[Project Search](http://wwwtest.industrialinfo.com/iirenergy/natgas/project_search.jsp)**Project`.
+2. Links to `[Issues](www.github.com)`/ Pull Request, updates 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
 ```
