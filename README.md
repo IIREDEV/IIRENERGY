@@ -5,8 +5,9 @@
 2. Item 2
 3. Item 3
 4. 
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 ```powershell
-![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) repo contains latest from the test server - 10.23.98.23 and includes
+repo contains latest from the test server - 10.23.98.23 and includes
 ```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
