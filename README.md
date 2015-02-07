@@ -1,9 +1,9 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
-*repo contains latest from the test server - 10.23.98.23 and includes*
+
 ```powershell
 
 ```
-1. You can find the Docs, wiki, how to's here 
+1.*repo contains latest from the test server - 10.23.98.23 and includes*
 2. Links to [Issues](www.github.com) / [Pull Request](www.github.com), [Updates](www.github.com), and [How To's](www.github.com). 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
@@ -116,8 +116,9 @@ Content Cell  | Content Cell
 
 
 | NatGas Live  | NGLS Live  | Market Data |
-| ------------- | ----------- |
+| :------------ |:---------------:| -----:|
 | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   |
+| :------------ |:---------------:| -----:|
 | Documentation      | Documentation        |   Documentation |
 
 
