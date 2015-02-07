@@ -1,20 +1,15 @@
 # ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
-
 ```
 **IIRENEGY** repo contains latest from the **[test site](http://google.com)** at *10.23.98.23*.
 ```
 [Documentaton/Wiki](http://github.com/dotnet/core), [Issues](http://github.com/dotnet/core), [Wiki](http://github.com/dotnet/core)
-
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/petro-cast-icon.png.pagespeed.ce.n3BIjOzI29.png)
-
 ```javascript
 if (isAwesome){
   return true
 }
 ```
-
-
 |   |Linux|Windows|
 |:-:|:-:|:-:|
 |Debug|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_linux_debug/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_coreclr_windows_debug/)|
