@@ -5,7 +5,7 @@
 
 #[Documentaton](http://github.com/dotnet/core) and tutorials can be found at link.
 
-![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/natgas/index.jsp?scheme=natgas)
+![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)
 
 
 |   |Linux|Windows|
