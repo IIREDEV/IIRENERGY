@@ -3,11 +3,7 @@
 ```powershell
 repo contains latest from the test server - 10.23.98.23.
 
-| NatGas Live  | NGLS Live  | Market Data |
-| :------------ |:---------------:| -----:|
-| ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+Energy asset information on power plants, oil refineries and natural gas infrastructure is now more important than ever. IIR Energy provides infrastructure information on these assets, as well as real-time tracking of planned and unplanned interruptions affecting the trading, logistics and marketing communities. We are the number one source for information about electricity outages, refinery turnarounds and midstream natural gas disruptions.
 ```
 ```powershell
 
@@ -117,5 +113,11 @@ Content Cell  | Content Cell
 | Help      | Display the help window.|
 | Close     | Closes a window     |
 
+
+| NatGas Live  | NGLS Live  | Market Data |
+| :------------ |:---------------:| -----:|
+| ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)      | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   | ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)   |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
