@@ -1,7 +1,7 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 
-```html
-<h2>IIRENEGY repo contains latest from the test server - 10.23.98.23.</h2>
+```css
+IIRENEGY repo contains latest from the test server - 10.23.98.23.
 ```
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
