@@ -5,7 +5,11 @@
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/power-cast-icon.png.pagespeed.ce.VgPiw7cz-0.png)
 ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/petro-cast-icon.png.pagespeed.ce.n3BIjOzI29.png)
 
-
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
 
 |   |Linux|Windows|
