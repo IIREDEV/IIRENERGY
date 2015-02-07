@@ -1,9 +1,10 @@
 ## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 
 ```powershell
-repo contains latest from the test server - 10.23.98.23.
+repo contains latest from the test server - 10.23.98.23 and includes
 
-Energy asset information on power plants, oil refineries and natural gas infrastructure is now more important than ever. IIR Energy provides infrastructure information on these assets, as well as real-time tracking of planned and unplanned interruptions affecting the trading, logistics and marketing communities. We are the number one source for information about electricity outages, refinery turnarounds and midstream natural gas disruptions.
+- [x] This is a complete item
+- [ ] This is an incomplete item
 ```
 ```powershell
 
