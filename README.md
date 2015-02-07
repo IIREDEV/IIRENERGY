@@ -1,4 +1,3 @@
-## ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 ## For IIRENERGY Tools, Contribute and Provide Feedback
 |   |Linux|Windows|
 |:-:|:-:|:-:|
