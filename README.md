@@ -1,4 +1,4 @@
-# ![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
+![Image of Yaktocat](http://wwwtest.industrialinfo.com/iirenergy/images/logo.png.pagespeed.ce.tWuvcyhMD3.png) 
 ### **IIRENEGY** repo contains latest from the test server -  *10.23.98.23*.
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
