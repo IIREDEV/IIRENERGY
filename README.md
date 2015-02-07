@@ -2,13 +2,11 @@
 
 ```powershell
 repo contains latest from the test server - 10.23.98.23 and includes
-
-- [x] This is a complete item
-- [ ] This is an incomplete item
 ```
-```powershell
-
-```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
 
