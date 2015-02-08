@@ -14,9 +14,7 @@ Brad Duncan is Client a &  on Projects and can be reached at
 ## Code Flow
 SmartAdmin Bootstrap interveved with jquery & and jsp.
 
-We setup a live 2-way mirror between the coreclr repo on GitHub and the .NET Framework TFS server within Microsoft. The latency of the mirror is low, measurable in minutes.
 
-Contributions made to the coreclr repo are integrated to the Microsoft TFS server automatically and will become part of both the .NET Framework and .NET Core products. The same is true in reverse, that .NET Framework CLR changes (within the CoreCLR subset) are mirrored to the CoreCLR repo. These changes will sometimes result in large commits to unrelated components.
 
 
 
